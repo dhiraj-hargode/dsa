@@ -31,10 +31,10 @@ This repository documents my focused preparation for Data Structures & Algorithm
 
 ## 📚 Resources Used
 
-- 🔹 NeetCode 150 (Primary list)  
-- 🔹 NeetCode Roadmap (Topic-wise learning)  
-- 🔹 Blind 75 (High-frequency interview questions)  
-- 🔹 LeetCode Company Tags (Google/Amazon - last 6 months)  
+- 🔹 [NeetCode 150 (Primary List)](https://neetcode.io/practice/practice/neetcode150)
+- 🔹 [NeetCode Roadmap](https://neetcode.io/practice?tab=neetcode150)
+- 🔹 Blind 75  
+- 🔹 LeetCode Company Tags (Google/Amazon - last 6 months)
 
 ---
 
